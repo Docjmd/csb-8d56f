@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://docjmd.github.io/csb-8d56f/static/css/main.8986fbf9.chunk.css",
-    "main.js": "https://docjmd.github.io/csb-8d56f/static/js/main.26a5c73a.chunk.js",
-    "main.js.map": "https://docjmd.github.io/csb-8d56f/static/js/main.26a5c73a.chunk.js.map",
+    "main.js": "https://docjmd.github.io/csb-8d56f/static/js/main.dc391c1d.chunk.js",
+    "main.js.map": "https://docjmd.github.io/csb-8d56f/static/js/main.dc391c1d.chunk.js.map",
     "runtime-main.js": "https://docjmd.github.io/csb-8d56f/static/js/runtime-main.5417d375.js",
     "runtime-main.js.map": "https://docjmd.github.io/csb-8d56f/static/js/runtime-main.5417d375.js.map",
-    "static/js/2.2e517b50.chunk.js": "https://docjmd.github.io/csb-8d56f/static/js/2.2e517b50.chunk.js",
-    "static/js/2.2e517b50.chunk.js.map": "https://docjmd.github.io/csb-8d56f/static/js/2.2e517b50.chunk.js.map",
+    "static/js/2.6f9f7918.chunk.js": "https://docjmd.github.io/csb-8d56f/static/js/2.6f9f7918.chunk.js",
+    "static/js/2.6f9f7918.chunk.js.map": "https://docjmd.github.io/csb-8d56f/static/js/2.6f9f7918.chunk.js.map",
     "index.html": "https://docjmd.github.io/csb-8d56f/index.html",
     "static/css/main.8986fbf9.chunk.css.map": "https://docjmd.github.io/csb-8d56f/static/css/main.8986fbf9.chunk.css.map",
-    "static/js/2.2e517b50.chunk.js.LICENSE.txt": "https://docjmd.github.io/csb-8d56f/static/js/2.2e517b50.chunk.js.LICENSE.txt"
+    "static/js/2.6f9f7918.chunk.js.LICENSE.txt": "https://docjmd.github.io/csb-8d56f/static/js/2.6f9f7918.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5417d375.js",
-    "static/js/2.2e517b50.chunk.js",
+    "static/js/2.6f9f7918.chunk.js",
     "static/css/main.8986fbf9.chunk.css",
-    "static/js/main.26a5c73a.chunk.js"
+    "static/js/main.dc391c1d.chunk.js"
   ]
 }
