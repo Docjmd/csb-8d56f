@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css","webpack://src/Components/Form.css"],"names":[],"mappings":"AAAA,KACE,sBAEF,CCHA,YDEE,iBCAF","file":"main.8986fbf9.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n",".firma {\r\n  text-align: center;\r\n}\r\n"]}
